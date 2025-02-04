@@ -11,10 +11,12 @@ Welcome to my GitHub profile! I'm a Developer passionate about Python, Data Scie
 
 - **Programming Languages:**
   - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-  - ![Django Logo](https://www.djangoproject.com/)
+
+- **Frameworks:**
+  - ![Django Logo](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg) 
+
 
 
 ## Connect with Me
-- [Personal Website](https://yourdomain.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/franco-engelbrecht-572942234/?originalSubdomain=za))
 
