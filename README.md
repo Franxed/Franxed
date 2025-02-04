@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a Developer passionate about Python, Machine L
 
 - 🎓 I'm pursuing a **BSc in IT (Software Engineering)** at **Eduvos** (Graduating in 2028).
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Web Design, and Backend Development**.
-- 🤝 I’m looking to collaborate on **AI projects and Full-Stack Web Development**.
-- 🚀 I'm building **Endurico_src**, a professional **e-commerce platform** for car parts using **Django & React**.
+- 🤝 I’m looking to collaborate on **AI projects**.
 
 ---
 
@@ -30,5 +29,6 @@ Welcome to my GitHub profile! I'm a Developer passionate about Python, Machine L
 ## 🌍 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Franxed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/franco-engelbrecht-572942234/?originalSubdomain=za))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-engelbrecht-572942234/?originalSubdomain=za)
+
 
