@@ -20,8 +20,9 @@ Welcome to my GitHub profile! I'm a Developer passionate about Python, Machine L
 
 ### **Frameworks:**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="100" height="50" />
-  <img src="https://en.m.wikipedia.org/wiki/File:Jupyter_logo.svg" alt="Jupyter Notebook" width="100" height="50" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="100" height="50" />
+  
+  <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebook" width="100" height="50" />
 </p>
 
 ---
