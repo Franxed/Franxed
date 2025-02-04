@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, my name is Your Name! 👋
 
-<!--
-**Franxed/Franxed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Developer passionate about Python, Data Science, Web-Development and Machine Learning.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’ve enrolled into a Bachelor of Sciences in I.T. (2025)
+- 🌱 I’m currently learning and leveling up my Mahcine Learning Skills, Web Design Skills and soon into a little Gaming.
+- 👯 I’m looking to collaborate and build hands-on experience with AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:**
+  - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+
+
+## Connect with Me
+- [Personal Website](https://yourdomain.com)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
