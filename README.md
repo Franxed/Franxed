@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a Developer passionate about Python, Data Scie
 ## Skills
 
 - **Programming Languages:**
-  - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+  - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+  - ![Django Logog](https://www.djangoproject.com/)
 
 
 ## Connect with Me
