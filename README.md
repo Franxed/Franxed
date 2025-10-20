@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Developer passionate about Python, Machine L
 
 ## About Me
 
-- 🎓 I'm pursuing a **BSc in IT (Software Engineering)** at **Eduvos** (Graduating in 2028).
+- 🎓 I'm pursuing a **BSc in IT (Software Engineering)** at **Eduvos** (Graduating in 2027).
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Web Design, and Backend Development**.
-- 🤝 I’m looking to collaborate on **AI projects**.
+- 🤝 I’m looking to collaborate on **AI projects** or build and learn new skills.
 
 ---
 
