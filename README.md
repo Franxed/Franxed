@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Developer passionate about Python, Machine L
 <p align="left">
   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="150" height="50" />
   
-  <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.png" alt="Jupyter Notebook" width="150" height="50"  />
+  <img src="https://jupyter.org/assets/jupyter/logo/rectanglelogo-greytext-orangebody-greymoons.svg" />
 </p>
 
 ---
